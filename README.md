@@ -43,7 +43,7 @@ The implementation follows the course requirements, including:
 - The project uses **Google Fonts** via a link in the `index.html` file.
 
 ## Author
-This project was developed by **Abiodun Adefusi** as part of the coursework for **Introduction to Web Technology - HTML & CSS** at **St. Pölten University of Applied Sciences**.
+This project was developed by **Abiodun Adefusi** as part of the coursework for **Introduction to Web Technology - HTML & CSS** at **University of Applied Sciences St Pölten**.
 
 ---
 
