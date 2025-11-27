@@ -1,7 +1,7 @@
 # Screen Design and Implementation - Final Task
 
 ## Project Overview
-This project focuses on **screen design and implementation**, where the screen design was created using **Figma** and implemented using **HTML and CSS**. This is the **final task** for the course **Introduction to Web Technology - HTML & CSS** during **Winter Semester 2024** at **St. Pölten University of Applied Sciences**.
+This project focuses on **screen design and implementation**, where the screen design was created using **Figma** and implemented using **HTML and CSS**. This is the **final task** for the course **Introduction to Web Technology - HTML & CSS** during **Winter Semester 2024** at **University of Applied Sciences St. Pölten**.
 
 ## Technologies Used
 - **Figma** (for screen design)
